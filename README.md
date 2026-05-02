@@ -16,6 +16,7 @@
 |6|Kota Vishnu Datta|-|[🔗](https://www.linkedin.com/in/kotavishnudatta/)|
 |7|Boru Harshavardhan Reddy|-|[🔗](https://www.linkedin.com/in/bharshavardhanreddy/)|
 |8|Himashree P|-|[🔗](https://www.linkedin.com/in/p-himashree-perumalla-348920286/)|
+|9|Varun B|[🔗](https://github.com/ibesuperv)|-|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
